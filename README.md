@@ -54,6 +54,6 @@ The FSM transitions through defined states based on input `x`, and asserts outpu
 ## 📂 Files Included
 - `seq_1011_detector.v` – FSM Verilog code (Mealy machine)
 - `seq_1011_detector_tb.v` – Testbench for input sequence
-- `waveform.png` – Screenshot of simulation waveform
+- `Wave_seq_detect2` – Screenshot of simulation waveform
 
 
